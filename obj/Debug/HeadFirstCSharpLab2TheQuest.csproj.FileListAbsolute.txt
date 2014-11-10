@@ -1,0 +1,9 @@
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\bin\Debug\HeadFirstCSharpLab2TheQuest.exe.config
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\bin\Debug\HeadFirstCSharpLab2TheQuest.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\bin\Debug\HeadFirstCSharpLab2TheQuest.pdb
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.csprojResolveAssemblyReference.cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.Form1.resources
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.Properties.Resources.resources
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.csproj.GenerateResource.Cache
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.exe
+c:\users\ebva.rhs\documents\visual studio 2013\Projects\HeadFirstCSharpLab2TheQuest\HeadFirstCSharpLab2TheQuest\obj\Debug\HeadFirstCSharpLab2TheQuest.pdb
