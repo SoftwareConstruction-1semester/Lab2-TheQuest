@@ -217,9 +217,9 @@
             this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.button7);
             this.groupBox1.Controls.Add(this.button8);
-            this.groupBox1.Location = new System.Drawing.Point(360, 303);
+            this.groupBox1.Location = new System.Drawing.Point(357, 303);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(96, 64);
+            this.groupBox1.Size = new System.Drawing.Size(96, 60);
             this.groupBox1.TabIndex = 20;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Move";
@@ -267,9 +267,9 @@
             this.groupBox2.Controls.Add(this.button10);
             this.groupBox2.Controls.Add(this.button11);
             this.groupBox2.Controls.Add(this.button12);
-            this.groupBox2.Location = new System.Drawing.Point(462, 303);
+            this.groupBox2.Location = new System.Drawing.Point(454, 303);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(96, 64);
+            this.groupBox2.Size = new System.Drawing.Size(96, 60);
             this.groupBox2.TabIndex = 21;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Attack";
