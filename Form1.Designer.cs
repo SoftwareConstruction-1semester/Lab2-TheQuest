@@ -124,9 +124,10 @@
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox7.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.player;
+            this.pictureBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox7.Location = new System.Drawing.Point(84, 65);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox7.Size = new System.Drawing.Size(30, 30);
             this.pictureBox7.TabIndex = 6;
             this.pictureBox7.TabStop = false;
             // 
@@ -134,9 +135,10 @@
             // 
             this.pictureBox8.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox8.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.bat;
+            this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox8.Location = new System.Drawing.Point(141, 65);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox8.Size = new System.Drawing.Size(30, 30);
             this.pictureBox8.TabIndex = 7;
             this.pictureBox8.TabStop = false;
             // 
@@ -144,9 +146,10 @@
             // 
             this.pictureBox9.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox9.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.ghost;
+            this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox9.Location = new System.Drawing.Point(198, 65);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox9.Size = new System.Drawing.Size(30, 30);
             this.pictureBox9.TabIndex = 8;
             this.pictureBox9.TabStop = false;
             // 
@@ -154,9 +157,10 @@
             // 
             this.pictureBox10.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox10.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.ghoul;
+            this.pictureBox10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox10.Location = new System.Drawing.Point(255, 65);
             this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox10.Size = new System.Drawing.Size(30, 30);
             this.pictureBox10.TabIndex = 9;
             this.pictureBox10.TabStop = false;
             // 
@@ -164,9 +168,10 @@
             // 
             this.pictureBox11.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox11.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.potion_blue1;
+            this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox11.Location = new System.Drawing.Point(312, 65);
             this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox11.Size = new System.Drawing.Size(30, 30);
             this.pictureBox11.TabIndex = 10;
             this.pictureBox11.TabStop = false;
             // 
@@ -174,9 +179,10 @@
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox12.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.potion_red1;
+            this.pictureBox12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox12.Location = new System.Drawing.Point(369, 65);
             this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox12.Size = new System.Drawing.Size(30, 30);
             this.pictureBox12.TabIndex = 11;
             this.pictureBox12.TabStop = false;
             // 
@@ -184,9 +190,10 @@
             // 
             this.pictureBox13.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox13.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.sword1;
+            this.pictureBox13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox13.Location = new System.Drawing.Point(426, 65);
             this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox13.Size = new System.Drawing.Size(30, 30);
             this.pictureBox13.TabIndex = 12;
             this.pictureBox13.TabStop = false;
             // 
@@ -194,9 +201,10 @@
             // 
             this.pictureBox14.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox14.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.bow1;
+            this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox14.Location = new System.Drawing.Point(84, 121);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox14.Size = new System.Drawing.Size(30, 30);
             this.pictureBox14.TabIndex = 13;
             this.pictureBox14.TabStop = false;
             // 
@@ -204,9 +212,10 @@
             // 
             this.pictureBox15.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox15.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.mace1;
+            this.pictureBox15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox15.Location = new System.Drawing.Point(141, 121);
             this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(51, 50);
+            this.pictureBox15.Size = new System.Drawing.Size(30, 30);
             this.pictureBox15.TabIndex = 14;
             this.pictureBox15.TabStop = false;
             // 
@@ -316,22 +325,22 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::HeadFirstCSharpLab2TheQuest.Properties.Resources.dungeon600x400;
             this.ClientSize = new System.Drawing.Size(584, 361);
+            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.pictureBox15);
-            this.Controls.Add(this.pictureBox14);
-            this.Controls.Add(this.pictureBox13);
-            this.Controls.Add(this.pictureBox12);
-            this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.pictureBox9);
             this.Controls.Add(this.pictureBox8);
-            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.pictureBox15);
+            this.Controls.Add(this.pictureBox14);
+            this.Controls.Add(this.pictureBox13);
+            this.Controls.Add(this.pictureBox12);
+            this.Controls.Add(this.pictureBox11);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
